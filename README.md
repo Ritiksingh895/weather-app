@@ -8,3 +8,9 @@ Usage
 Enter a city name or allow the app to detect your location (requires permission).
 Toggle between Celsius and Fahrenheit for temperature display.
 View the current weather and forecast for the selected location.
+
+Technologies Used
+HTML: Structure of the web pages.
+CSS: Styling and layout.
+JavaScript: Functionality and dynamic updates.
+API:  OpenWeatherMap
